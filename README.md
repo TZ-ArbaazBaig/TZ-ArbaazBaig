@@ -51,7 +51,7 @@
 <div align="center">
 
 <a href="https://interview-prep-nine-zeta.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TZ-ArbaazBaig&repo=InterviewPrep-AI&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TZ-ArbaazBaig&repo=interview_prep&theme=tokyonight&hide_border=true&border_radius=10"/>
 </a>
 <a href="https://github.com/TZ-ArbaazBaig/credit-card-fraud-detection">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TZ-ArbaazBaig&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true&border_radius=10"/>
