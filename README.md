@@ -122,14 +122,19 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**AI & Tools**
+**AI & LLM**
 
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -154,7 +159,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TZ-ArbaazBaig&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TZ-ArbaazBaig&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 
 </div>
 
