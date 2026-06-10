@@ -1,84 +1,62 @@
-<h1 align="center">Hi, I'm Arbaaz Baig 👋</h1>
+# Arbaaz Baig A
 
-<p align="center">
-  <b>Software Engineer · Data & Analytics · AI/ML</b><br/>
-  Flutter · MERN · RAG Pipelines · Fraud Detection
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arbaaz-baig-84b0782a6/">LinkedIn</a> •
-  <a href="https://personal-portfolio-alpha-snowy-69.vercel.app/">Portfolio</a> •
-  <a href="mailto:arbaazbaig98@gmail.com">Email</a>
-</p>
+~~~
+Software Engineer · Chennai, India
+Flutter · MERN · Python · AI/ML
+Open to opportunities in Dubai 🇦🇪
+~~~
 
 ---
 
-## 🚀 About Me
+I build things at the intersection of **software engineering** and **data intelligence** —
+from production mobile apps to fraud detection models and RAG pipelines.
 
-- 🔭 Software Engineer with 1+ year experience at **ThetaZero Pvt Ltd**
-- 🤖 Built a **Credit Card Fraud Detection** system (AUC-ROC: 0.9688) using Python, SMOTE & Random Forest
-- 🧠 Developed **InterviewPrep AI** — a full-stack RAG platform using Pinecone + Groq API
-- 📱 Proficient in Flutter, React.js, Node.js, Firebase & REST APIs
-- 🎓 MCA from B.S. Abdur Rahman Crescent Institute (82%)
-- 📍 Based in Chennai, India · Open to opportunities in Dubai 🇦🇪
+Currently at **ThetaZero Pvt Ltd**, building scalable Flutter and full-stack applications.
 
 ---
 
-## 🛠️ Tech Stack
+## what i've built
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**[Credit Card Fraud Detection](https://github.com/TZ-ArbaazBaig/credit-card-fraud-detection)**
+&nbsp;&nbsp;`python` `scikit-learn` `smote` `random-forest`
+> Analysed 284,807 real-world transactions. Tackled 0.17% fraud rate with SMOTE oversampling.
+> Random Forest → **AUC-ROC: 0.9688**, Fraud F1: 0.82
 
-**Frameworks & Tools**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+**[InterviewPrep AI](https://interview-prep-nine-zeta.vercel.app)**
+&nbsp;&nbsp;`react` `node` `mongodb` `pinecone` `groq`
+> Full-stack RAG platform. Vector search + LLM evaluation for AI-driven interview prep.
+> Built the entire pipeline — from ingestion to scoring.
 
-**Data & AI/ML**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
+**[Slayer Gemini AI](https://github.com/TZ-ArbaazBaig/Slayer_Gemini_AI)**
+&nbsp;&nbsp;`flutter` `dart` `gemini-api`
+> Cross-platform AI mobile app. Real-time responses powered by Google Gemini.
 
 ---
 
-## 📌 Featured Projects
+## stack
 
-### 🔍 [Credit Card Fraud Detection](https://github.com/TZ-ArbaazBaig/credit-card-fraud-detection)
-> Python · Pandas · Scikit-learn · SMOTE · Random Forest
-
-Analysed 284,807 transactions to detect fraud patterns. Handled severe class imbalance (0.17% fraud rate) using SMOTE. Achieved **0.9688 AUC-ROC** with Random Forest classifier.
-
----
-
-### 🤖 [InterviewPrep AI](https://interview-prep-nine-zeta.vercel.app)
-> React.js · Node.js · MongoDB · Pinecone · Groq API · Clerk
-
-Full-stack RAG platform for AI-powered interview preparation. Vector search with Pinecone, LLM evaluation with Groq API, secure auth with Clerk.
+~~~
+languages    Python · JavaScript · SQL · Dart · Java
+mobile       Flutter · Firebase · Provider · Google Maps SDK
+web          React.js · Node.js · Express.js · MongoDB · REST APIs
+data / ml    Pandas · NumPy · Scikit-learn · SMOTE · Matplotlib · Seaborn
+ai           RAG Pipelines · Pinecone · Groq API · Gemini API · LLM Integration
+tools        Git · Postman · JWT · Clean Architecture · SDLC
+~~~
 
 ---
 
-### 📱 [Slayer Gemini AI](https://github.com/TZ-ArbaazBaig/Slayer_Gemini_AI)
-> Flutter · Dart · Gemini API
+## background
 
-Cross-platform AI mobile app integrating Google Gemini APIs for real-time intelligent responses.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TZ-ArbaazBaig&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TZ-ArbaazBaig&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
+- MCA — B.S. Abdur Rahman Crescent Institute (82%)
+- BCA — The New College, Chennai (78.89%)
 
 ---
 
-## 📫 Let's Connect
+## reach me
 
-I'm actively looking for **Software Engineering / Data Analytics** roles in **Dubai & India**.
-Feel free to reach out — arbaazbaig98@gmail.com
+[arbaazbaig98@gmail.com](mailto:arbaazbaig98@gmail.com)
+&nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/arbaaz-baig-84b0782a6/)
+&nbsp;·&nbsp;
+[portfolio](https://personal-portfolio-alpha-snowy-69.vercel.app/)
