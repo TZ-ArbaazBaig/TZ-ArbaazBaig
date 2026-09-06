@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=Arbaaz%20Baig%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20MERN%20%7C%20AI%20%26%20LLM&descAlignY=55"/>
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=Arbaaz%20Baig%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%7C%20MERN%20%7C%20AI%20and%20LLM&descAlignY=55"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Software+Engineer+at+Ladera+Technology;Flutter+Developer+%7C+MERN+Stack;AI+%26+LLM+Applications;RAG+Pipelines+%7C+Pinecone+%7C+Groq+API;Open+to+Opportunities+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA)](https://git.io/typing-svg)
 
